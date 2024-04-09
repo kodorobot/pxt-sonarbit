@@ -1,1 +1,8 @@
-
+{
+    "Distance_Unit.Distance_Unit_cm|block": "公分",
+    "Distance_Unit.Distance_Unit_inch|block": "英尺",
+    "Distance_Unit.Distance_Unit_mm|block": "毫米",
+    "sonarbit.sonarbit_distance|block": "超音波模組回饋的 %distance_unit |在|引腳 %pin",
+    "sonarbit|block": "超音波比特",
+    "{id:category}Sonarbit": "超音波比特"
+}
